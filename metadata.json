@@ -1,0 +1,6 @@
+{
+  "name": "Cocina Virtual Interactiva",
+  "description": "Una divertida cocina virtual interactiva donde puedes combinar ingredientes, ajustar tiempos y temperaturas, y ver qué alocados platos puedes crear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
